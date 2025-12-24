@@ -1,0 +1,192 @@
+WarehouseName,District,State,DistrictCSVpath
+ADILABAD,Adilabad,Telangana,data/Adilabad.csv
+ADILABAD II - HIRED,Adilabad,Telangana,data/Adilabad.csv
+AHMEDABAD-I,Ahmedabad,Gujarat,data/Ahmedabad.csv
+AJITWAL - HIRED,Moga,Punjab,data/Moga.csv
+AKOLA-I,Akola,Maharashtra,data/Akola.csv
+AKOLA-I-HIRED,Akola,Maharashtra,data/Akola.csv
+AKOLA-II,Akola,Maharashtra,data/Akola.csv
+AMRAVATI,Amravati,Maharashtra,data/Amravati.csv
+AMRAVATI-HIRED,Amravati,Maharashtra,data/Amravati.csv
+AMRITSAR,Amritsar,Punjab,data/Amritsar.csv
+AMRITSAR BD,Amritsar,Punjab,data/Amritsar.csv
+ANAND,Anand,Gujarat,data/Anand.csv
+AVALPOONDURAI-HIRED NAFED,Erode,Tamil Nadu,data/Erode.csv
+AVINASHI-HIRED NAFED,Tiruppur,Tamil Nadu,data/Erode.csv
+BAHRAICH,Bahraich,Uttar Pradesh,data/Bahraich.csv
+BALASORE-I,Balasore,Odisha,data/Balasore.csv
+BALASORE-II,Balasore,Odisha,data/Balasore.csv
+BALLIA,Ballia,Uttar Pradesh,data/Ballia.csv
+BANDA,Banda,Uttar Pradesh,data/Banda.csv
+BARGARH,Bargarh,Odisha,data/Bargarh.csv
+BARHI,Hazaribagh,Jharkhand,data/Hazaribagh.csv
+Begusarai - HIRED,Begusarai,Bihar,data/Begusarai.csv
+BEAWAR I - HIRED,Ajmer,Rajasthan,data/Ajmer.csv
+BEAWAR II - HIRED,Ajmer,Rajasthan,data/Ajmer.csv
+Bhagalpur - HIRED,Bhagalpur,Bihar,data/Bhagalpur.csv
+BHARATPUR,Bharatpur,Rajasthan,data/Bharatpur.csv
+BHAVNAGAR,Bhavnagar,Gujarat,data/Bhavnagar.csv
+BHIND,Bhind,Madhya Pradesh,data/Bhind.csv
+BHIWANI - HIRED,Bhiwani,Haryana,data/Bhiwani.csv
+BHOPAL-I,Bhopal,Madhya Pradesh,data/Bhopal.csv
+BIDAR,Bidar,Karnataka,data/Bidar.csv
+BIKANER-I,Bikaner,Rajasthan,data/Bikaner.csv
+BIKANER-II,Bikaner,Rajasthan,data/Bikaner.csv
+BILASPUR-I,Bilaspur,Chhattisgarh,data/Bilaspur.csv
+BILASPUR-II,Bilaspur,Chhattisgarh,data/Bilaspur.csv
+BISHNUPUR,Bankura,West Bengal,data/Bankura.csv
+Bishnupur FSD - PMS,Bishnupur,Manipur,data/Bishnupur.csv
+BODHAN,Nizamabad,Telangana,data/Nizamabad.csv
+BOLANGIR,Bolangir,Odisha,data/Balangir.csv
+BONGAIGAON-HIRED,Bongaigaon,Assam,data/Bongaigaon.csv
+BURHANPUR-I,Burhanpur,Madhya Pradesh,data/Burhanpur.csv
+CHANDA T -HIRED CCI,Chandrapur,Maharashtra,data/Chandauli.csv
+CHANDA T-II - HIRED CCI,Chandrapur,Maharashtra,data/Chandauli.csv
+CHANDIGARH,Chandigarh,Chandigarh,data/Chandigarh.csv
+CHARKHI DADRI,Charkhi Dadri,Haryana,data/Charkhi Dadri.csv
+CHARKHI DADRI-HIRED,Charkhi Dadri,Haryana,data/Charkhi Dadri.csv
+CHINDWARA,Chhindwara,Madhya Pradesh,data/Chhindwara.csv
+CHITRADURGA - HIRED,Chitradurga,Karnataka,data/Ballia.csv
+COIMBATORE,Coimbatore,Tamil Nadu,data/Coimbatore.csv
+CUDDALORE,Cuddalore,Tamil Nadu,data/Cuddalore.csv
+CUTTACK,Cuttack,Odisha,data/Cuttack.csv
+DARBHANGA,Darbhanga,Bihar,data/Darbhanga.csv
+DARBHANGA II- Hired,Darbhanga,Bihar,data/Darbhanga.csv
+DAVANGERE,Davanagere,Karnataka,data/Davanagere.csv
+DEHRADUN - HIRED,Dehradun,Uttarakhand,data/Dehradun.csv
+DHAMTARI,Dhamtari,Chhattisgarh,data/Dhamtari.csv
+DHARWAD,Dharwad,Karnataka,data/Dhar.csv
+DHUBRI,Dhubri,Assam,data/Dhubri.csv
+DIMAPUR,Dimapur,Nagaland,data/Dimapur.csv
+ERODE,Erode,Tamil Nadu,data/Erode.csv
+ETAWAH,Etawah,Uttar Pradesh,data/Etawah.csv
+FATEHABAD - HIRED,Fatehabad,Haryana,data/Fatehabad.csv
+FAZILKA-I,Fazilka,Punjab,data/Fazilka.csv
+GADAG-I,Gadag,Karnataka,data/Gadag.csv
+GADAG-II,Gadag,Karnataka,data/Gadag.csv
+GANDASI- HIRED,Khordha,Odisha,data/Cuttack.csv
+GHARSA,Haryana,data/Fatehabad.csv
+GHAZIABAD-I,Ghaziabad,Uttar Pradesh,data/Ghaziabad.csv
+GOLA GOKARNATH,Lakhimpur Kheri,Uttar Pradesh,data/Lucknow.csv
+GONDIA-I,Gondia,Maharashtra,data/Gondia.csv
+GONDIA-II,Gondia,Maharashtra,data/Gondia.csv
+GORAKHPUR,Gorakhpur,Uttar Pradesh,data/Gorakhpur.csv
+GUNTUR,Guntur,Andhra Pradesh,data/Guntur.csv
+GURDASPUR,Gurdaspur,Punjab,data/Gurdaspur.csv
+GURGAON,Gurugram,Haryana,data/Gurugram.csv
+GWALIOR,Gwalior,Madhya Pradesh,data/Gwalior.csv
+HANUMANGARH III - HIRED,Hanumangarh,Rajasthan,data/Hanumangarh.csv
+HANUMANGARH-I,Hanumangarh,Rajasthan,data/Hanumangarh.csv
+HANUMANGARH-II,Hanumangarh,Rajasthan,data/Hanumangarh.csv
+HASSAN-HIRED,Hassan,Karnataka,data/Hassan.csv
+HAZARIBAGH,Hazaribagh,Jharkhand,data/Hazaribagh.csv
+HISSAR,Hisar,Haryana,data/Hisar.csv
+HYDERABAD,data/Hyderabad.csv
+INDORE-I,Indore,Madhya Pradesh,data/Indore.csv
+INDORE-II,Indore,Madhya Pradesh,data/Indore.csv
+INDORE-III,Indore,Madhya Pradesh,data/Indore.csv
+INDORE-IV,Indore,Madhya Pradesh,data/Indore.csv
+INDORE-V,Indore,Madhya Pradesh,data/Indore.csv
+JAIPUR,data/Jaipur.csv
+JAHANGIRABAD-I,Bulandshahr,Uttar Pradesh,data/Bulandshahr.csv
+JAHANGIRABAD-II,Bulandshahr,Uttar Pradesh,data/Bulandshahr.csv
+JAJPUR ROAD,Jajpur,Odisha,data/Jajpur.csv
+JALNA-HIRED,Jalna,Maharashtra,data/Jalna.csv
+JAMNAGAR,Jamnagar,Gujarat,data/Jamnagar.csv
+JAMNAGAR - HIRED,Jamnagar,Gujarat,data/Jamnagar.csv
+JANGAON,Jangaon,Telangana,data/Jangaon.csv
+JEYPORE,Koraput,Odisha,data/Khammam.csv
+JHANSI,Jhansi,Uttar Pradesh,data/Jhansi.csv
+JODHPUR - HIRED,Jodhpur,Rajasthan,data/Jodhpur.csv
+JONAI - HIRED,Dhemaji,Assam,data/Dhemaji.csv
+JORHAT-I,Jorhat,Assam,data/Jorhat.csv
+JORHAT-II,Jorhat,Assam,data/Jorhat.csv
+KAITHAL,Kaithal,Haryana,data/Kaithal.csv
+KAKINADA,East Godavari,Andhra Pradesh,data/Kakinada.csv
+KANJIKODE -PALAKKAD,Palakkad,Kerala,data/Malappuram.csv
+KARIMNAGAR I,Karimnagar,Telangana,data/Karimnagar.csv
+KARIMNAGAR-II,Karimnagar,Telangana,data/Karimnagar.csv
+KARNAL-I,Karnal,Haryana,data/Karnal.csv
+KARNAL-III,Karnal,Haryana,data/Karnal.csv
+KATIHAR,Katihar,Bihar,data/Katihar.csv
+KHAGARIA,Khagaria,Bihar,data/Khagaria.csv
+KHAMMAM- HIRED,Khammam,Telangana,data/Khammam.csv
+KHANDWA-I,Khandwa,Madhya Pradesh,data/Khandwa.csv
+KINATHUKADAVU-HIRED NAFED,Coimbatore,Tamil Nadu,data/Coimbatore.csv
+KIRUGAVALU-HIRED,Mandya,Karnataka,data/Mandya.csv
+KISHANGANJ,Kishanganj,Bihar,data/Kishanganj.csv
+KOLHAPUR-I,Kolhapur,Maharashtra,data/Kolhapur.csv
+KOLHAPUR-II,Kolhapur,Maharashtra,data/Kolhapur.csv
+KOTA I,Kota,Rajasthan,data/Kota.csv
+KOTA II,Kota,Rajasthan,data/Kota.csv
+KOTA-III,Kota,Rajasthan,data/Kota.csv
+KUNDLI,Sonipat,Haryana,data/Hisar.csv
+LUCKNOW-I,Lucknow,Uttar Pradesh,data/Lucknow.csv
+LUCKNOW-II,Lucknow,Uttar Pradesh,data/Lucknow.csv
+LUDHIANA,Ludhiana,Punjab,data/Ludhiana.csv
+MACHENAHALLI-HIRED,Tumakuru,Karnataka,data/Hassan.csv
+MADHEPURA,Madhepura,Bihar,data/Madhepura.csv
+MADHIRA- HIRED CCI,Khammam,Telangana,data/Khammam.csv
+MADURAI-I,Madurai,Tamil Nadu,data/Madurai.csv
+MADURAI-II,Madurai,Tamil Nadu,data/Madurai.csv
+MALDA,Malda,West Bengal,data/Malda.csv
+MANDI,Mandi,Himachal Pradesh,data/Mandi.csv
+MANSA,Mansa,Punjab,data/Mansa.csv
+MANSA-II HIRED,Mansa,Punjab,data/Mansa.csv
+MAUNATH BHANJAN,Mau,Uttar Pradesh,data/Mau.csv
+MEDAK,Medak,Telangana,data/Medak.csv
+MEHBUBNAGAR,Mahabubnagar,Telangana,data/Mahbubnagar.csv
+MOGA-I,Moga,Punjab,data/Moga.csv
+MOGA-II,Moga,Punjab,data/Moga.csv
+MORENA-I,Morena,Madhya Pradesh,data/Morena.csv
+MORENA-II,Morena,Madhya Pradesh,data/Morena.csv
+MUKTSAR,Muktsar,Punjab,data/Muktsar.csv
+MUNGER,Munger,Bihar,data/Patna.csv
+MUSALLAPUR,Muzaffarnagar,Uttar Pradesh,data/Muzaffarnagar.csv
+MUZAFFARNAGAR BD,Muzaffarnagar,Uttar Pradesh,data/Muzaffarnagar.csv
+MUZAFFARNAGAR-I,Muzaffarnagar,Uttar Pradesh,data/Muzaffarnagar.csv
+NADIAD,Kheda,Gujarat,data/Kheda.csv
+NAGPUR,Nagpur,Maharashtra,data/Nagpur.csv
+NAINI,Prayagraj,Uttar Pradesh,data/Prayagraj.csv
+NAMAKKAL-HIRED NAFED,Namakkal,Tamil Nadu,data/Namakkal.csv
+NANDED - HIRED,Nanded,Maharashtra,data/Nanded.csv
+NELLORE,Nellore,Andhra Pradesh,data/Nellore.csv
+NIZAMABAD,Nizamabad,Telangana,data/Nizamabad.csv
+OKHLA II NCCF- HIRED,New Delhi,Delhi,data/Delhi.csv
+OKHLA-I,New Delhi,Delhi,data/Delhi.csv
+OKHLA-II,New Delhi,Delhi,data/Delhi.csv
+PATAN - HIRED,Patan,Gujarat,data/Patan.csv
+PATHANKOT BD,Pathankot,Punjab,data/Pathankot.csv
+PITHAMPUR,Dhar,Madhya Pradesh,data/Dhar.csv
+PONNARI -HIRED CCI,Peddapalli,Telangana,data/Peddapalli.csv
+PONNARI II- HIRED CCI,Peddapalli,Telangana,data/Peddapalli.csv
+PUDUCHERY,Puducherry,Puducherry,data/Puducherry.csv
+PUNE PIMPRI - ICD,Pune,Maharashtra,data/Pune.csv
+RAICHUR - HIRED,Raichur,Karnataka,data/Raichur.csv
+RAIGARH-I,Raigarh,Chhattisgarh,data/Raigarh.csv
+RAIGARH-II,Raigarh,Chhattisgarh,data/Raigarh.csv
+RAIPUR-I,Raipur,Chhattisgarh,data/Raipur.csv
+RAIPUR-III,Raipur,Chhattisgarh,data/Raipur.csv
+RAIPUR-IV,Raipur,Chhattisgarh,data/Raipur.csv
+RAJKOT- HIRED,Rajkot,Gujarat,data/Rajkot.csv
+RAJKOT-I,Rajkot,Gujarat,data/Rajkot.csv
+RAJKOT-II,Rajkot,Gujarat,data/Rajkot.csv
+RAMPUR,Rampur,Uttar Pradesh,data/Rampur.csv
+RANCHI,Ranchi,Jharkhand,data/Ranchi.csv
+RANCHI II - HIRED,Ranchi,Jharkhand,data/Ranchi.csv
+ROHTAK - HIRED,Rohtak,Haryana,data/Rohtak.csv
+ROHTAK-II-HIRED,Rohtak,Haryana,data/Rohtak.csv
+SARANGPUR,Rajgarh,Madhya Pradesh,data/Rajgarh.csv
+SARUL,Bhiwani,Haryana,data/Bhiwani.csv
+SATHYAMANGALAM-HIRED,Erode,Tamil Nadu,data/Erode.csv
+SEVUR-HIRED NAFED,Erode,Tamil Nadu,data/Erode.csv
+SHAHGANJ,Jaunpur,Uttar Pradesh,data/Jaunpur.csv
+SIDDIPET,Siddipet,Telangana,data/Siddipet.csv
+SIDDIPET- HIRED CCI,Siddipet,Telangana,data/Siddipet.csv
+SILCHAR - HIRED,Cachar,Assam,data/Karimganj.csv
+SINDRI - HIRED,Dhanbad,Jharkhand,data/Dhanbad.csv
+SINGANALLUR,Coimbatore,Tamil Nadu,data/Coimbatore.csv
+SIRSA,Sirsa,Haryana,data/Hisar.csv
+SITAPURA-I,Jaipur,Rajasthan,data/Jaipur.csv
+SITAPURA-II,Jaipur,Rajasthan,data/Jaipur.csv
+SOHAGPUR,Shahdol,Madhya Pradesh,data/Bhind.csv
